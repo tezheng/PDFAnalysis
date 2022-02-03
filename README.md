@@ -8,7 +8,7 @@ To preserve PDF info tool "Multivalent"
 
 `java -cp /path/to/Multivalent.jar tool.pdf.Info -all /path/to/file.pdf`
 
-Output look like
+Output looks like
 
 ```
 Title:
